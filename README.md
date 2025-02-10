@@ -28,6 +28,6 @@ The **Gym Companion App** is a mobile application designed to help users log and
 - **Agile SCRUM Methodology** - Managed with Trello.
 
 ## System Design
-![System Design Diagram](https://alexxfan.github.io/Gym-Companion/images/fyp.png)
+![System Design Diagram](images/fyp.png)
 
 
