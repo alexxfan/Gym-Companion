@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://alexxfan.github.io/Gym-Companion"
 
 # GitHub Pages Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 # Enable GitHub Actions
 plugins:
